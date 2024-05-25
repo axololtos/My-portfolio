@@ -1,4 +1,4 @@
-# My-portfolio <a href="https://vedask.netlify.app/" target="_blank">
+# My-portfolio <a href="https://vedask.netlify.app/" target="[https://vedask.netlify.app/]">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visit My Portfolio">
 </a>
 
