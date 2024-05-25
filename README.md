@@ -1,6 +1,4 @@
-# My-portfolio <a href="https://vedask.netlify.app/" target="[https://vedask.netlify.app/]">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visit My Portfolio">
-</a>
+# My-portfolio 
 
 Hey there I'm very excited to post my portfolio online... I've taken inspiration of many portfolios and built this....so you might have seen some parts of this project on other websites...yes have taken help of those specific codes and used them....hope you like it....Do give feedback and suggestions are taken with open hands.... :)
 
