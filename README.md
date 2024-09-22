@@ -32,7 +32,7 @@ This portfolio website is like every other portfolios in online.... For me its s
   <a href="https://twitter.com/axololtos" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axololtos" height="48" width="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/vedas k/" target="blank">
+  <a href="www.linkedin.com/in/vedas-k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedas kudalkar" height="48" width="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/_ved.30" target="blank">
